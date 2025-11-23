@@ -1,5 +1,4 @@
 # Force MT Web
-![picture](favicon.png)
 
  Descripción
  -----------
